@@ -5,7 +5,7 @@
 
 
 
-## Undergrad B.S. Computer Science.</h3>
+## Undergrad B.S. Computer Science.
 - 👨🏻‍💻  Heavy interest in cloud engineering, fullstack, and AI/ML
 - 👯 I’m looking to collaborate on open-source projects
 - 🌱 I’m currently learning cloud computing techniques.
@@ -14,7 +14,7 @@
 
 
 - 📫 How to reach me **durraniomair2025@gmail.com**
-<p align="left">
+
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=omair-d&label=Profile%20views&color=0e75b6&style=flat" alt="omair-d" /> </p>
 </p>
 

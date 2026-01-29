@@ -6,9 +6,9 @@
 
 
 ## Undergrad B.S. in Computer Science.
-- 👨🏻‍💻  Heavy interest in cloud engineering, fullstack, and AI/ML
+- 👨🏻‍💻  Heavy interest in AI/ML, Data, and Full Stack Development
 - 👯 I’m looking to collaborate on open-source projects
-- 🌱 I’m currently learning fullstack techniques.
+- 🌱 I’m currently learning Machine Learning techniques.
 - 📍 Akron, Ohio
 
 

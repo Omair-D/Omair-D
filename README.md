@@ -5,11 +5,11 @@
 
 
 
-## Undergrad B.S. in Computer Science.
+## Generative AI Engineer.
 - 👨🏻‍💻  Heavy interest in AI/ML, Data, and Full Stack Development
 - 👯 I’m looking to collaborate on open-source projects
 - 🌱 I’m currently learning Machine Learning techniques.
-- 📍 Akron, Ohio
+- 📍 Chicago, Illinois
 
 
 
